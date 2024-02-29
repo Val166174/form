@@ -1,0 +1,14 @@
+
+.colors{
+    color: green;
+}
+
+.footers{
+    position: absolute;
+    margin:600px;
+}
+
+.footeres{
+    display: flex;
+    justify-content: space-between;
+}
